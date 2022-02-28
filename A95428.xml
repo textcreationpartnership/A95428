@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two great victories: on [sic] obtained by the Earle of Denbigh at Osvvestrey: and how he took 20 gentlemen of Wales. 1 lievtenant colonell. Divers captains and other officers 200 prisoners. 100 musquets. 500 pound composition. 300 cows and Welch roonts. Many swords and pistols. Divers arms. 1 barrell of powder. A quantitie of bullets. The church. The towre. The castle. Besides divers hurt. Some slain. Certified by letters from the Earl of Denbigh his quarters. The other victory by Colonell Mitton, with a list of the prisoners by him taken: certified by letters from Colonell Mitton. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95428</idno>
+            <idno type="STC">Wing T3450</idno>
+            <idno type="STC">Thomason E53_3</idno>
+            <idno type="STC">ESTC R22998</idno>
+            <idno type="EEBO-CITATION">99871886</idno>
+            <idno type="PROQUEST">99871886</idno>
+            <idno type="VID">155214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155214)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E53[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two great victories: on [sic] obtained by the Earle of Denbigh at Osvvestrey: and how he took 20 gentlemen of Wales. 1 lievtenant colonell. Divers captains and other officers 200 prisoners. 100 musquets. 500 pound composition. 300 cows and Welch roonts. Many swords and pistols. Divers arms. 1 barrell of powder. A quantitie of bullets. The church. The towre. The castle. Besides divers hurt. Some slain. Certified by letters from the Earl of Denbigh his quarters. The other victory by Colonell Mitton, with a list of the prisoners by him taken: certified by letters from Colonell Mitton. Published according to order.</title>
+                  <author>Mitton, Thomas, 1597?-1656.</author>
+                  <author>Denbigh, Basil Feilding, Earl of, ca. 1608-1675.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 29th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Oswestry (England) --  History --  Siege, 1644 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155214:1" rendition="simple:additions"/>
+            <p>Two Great Victories: ON Obtained by the Earle of DENBIGH at OSVVESTREY: And how he took
+<list>
+                  <item>20 Gentlemen of Wales.</item>
+                  <item>1 Lievtenant Colonell.</item>
+                  <item>Divers Captains and other officers</item>
+                  <item>200 Priſoners.</item>
+                  <item>100 Muſquets.</item>
+                  <item>500 pound compoſition.</item>
+                  <item>300 Cows and Welch Roonts.</item>
+                  <item>Many Swords and Piſtols.</item>
+                  <item>Divers Arms.</item>
+                  <item>1 Barrell of Powder.</item>
+                  <item>A quantitie of Ballets.</item>
+                  <item>The Church.</item>
+                  <item>The Towre.</item>
+                  <item>The Caſtle.</item>
+                  <item>Beſides divers hurt.</item>
+                  <item>Some ſlain.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Certified by Letters from the Earl of</hi> Denbigh <hi>his Quarters.</hi>
+            </p>
+            <p>The other Victory by Colonell <hi>Mitton,</hi> with a Liſt of the Priſoners by him taken:</p>
+            <p>
+               <hi>Certified by Letters from Colonell</hi> Mitton.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON, Printed by <hi>I. Coe,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155214:2"/>
+            <pb facs="tcp:155214:2"/>
+            <floatingText type="letter">
+               <body>
+                  <head>LETTERS SENT FROM Colonell MITTON.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Came hither about eleven of the clock upon Tueſday night, I had not been in bed on quarter of an houre, but a friend came to mee, and informed me that there were Carriages ſummo<g ref="char:EOLhyphen"/>ned to be in Oſweſtree by nine of the clock, yeſterday to car<g ref="char:EOLhyphen"/>rie Ammunitiun to Prince <hi>Rupert,</hi> which we heare he ſtand<g ref="char:EOLhyphen"/>eth in need of verie much, I drew out all the ſmall forces could be ſpared hence, and marched towards Chirke to ſurpriſe it. I went on with the horſe to a place ſo appointed one to meet mee, to give me farther intelligence, who when he came did aſſure me that a par<g ref="char:EOLhyphen"/>ty was gone out of Oſweſtree that morning, to convey it thither. I cannot learn that it is yet gone paſt, I have ſent to the Earle of <hi>Denbigh</hi> to give him notice hereof, who as I even now received in<g ref="char:EOLhyphen"/>telligence, that he hath ſent forces towards me, if they come before the Ammunition be paſt, I intend by Gods helpe to fall upon the Town, which they are about to fortifie very ſtrongly. Yeſterday I took 2. of Major <hi>Sachaverels</hi> Troopers, who-upon examination con<g ref="char:EOLhyphen"/>feſſed, that a Lievtenant of foote with 20 Muſquetiers were gone a mile paſt, as we being at Saint <hi>Martius,</hi> they going towards Bangor, I followed them as faſt I could with 25 horſe, and as many Dra<g ref="char:EOLhyphen"/>goons when wee came in ſight of them, they not ſeeing as the Dragoones alighted to charge them in the Reare, the place
+<pb facs="tcp:155214:3"/>being incloſed ground, full of Woods, and very uneven, inſtead of 20 we found 54: one of our Troopers diſcharged a Piſtoll, how or wherefore I cannot learne, but it gave them ſuch an Alarume, whereupon we diſcharged them with our horſe, routed them, took priſoners according to the note incloſed, bleſſed be God for all his mercies, hee is the only giver of all Victories, and whom I truſt will never forſake them that are faithfull in his ſervice: I thank my God I have not one man ſlain in any fight, ſince I parted laſt from you.</p>
+                  <closer>
+                     <dateline>Dated <date>
+                           <hi>June</hi> 20, 1644.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <list>
+                     <head>A Liſt of the Priſoners taken at Duddleſton, <hi>JUNE</hi> 19, 1644.</head>
+                     <item>
+                        <hi>Bartholomew Fuller</hi> Marſhall.</item>
+                     <item>
+                        <hi>Owen Jones</hi> Quartermaſter.</item>
+                     <item>
+                        <hi>Richard Foulks</hi> Serjeant.</item>
+                     <item>
+                        <hi>Robert Iones.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſeph Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Owen Lewis.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard ab David.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard ap Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Owen.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Treuard.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan ap Richard.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh ap Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Henrey.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Davies.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan ap Robert.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Steel.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas ap Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Iones.</hi>
+                     </item>
+                     <item>
+                        <hi>Randby Stocton.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Philip.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Roberts.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Davis.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Williams.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Owen.</hi>
+                     </item>
+                  </list>
+                  <p>Upon Saturday laſt about two of the clock in the afternoon my Lord with his horſe, and 200 foot fell upon this Towne, my Lord by reaſon of his command into Lancaſhire, could not ſpare any of his foot, therefore we are conſtrained to take this ſmall force out of
+<pb facs="tcp:155214:3"/>Weme, which God ſo bleſſed, that before five of the clocke wee entred the Towne, wee were forced firſt to take the Church, wherein there was 25. The next morning. the Caſtle was ſurren<g ref="char:EOLhyphen"/>dred, the particulars I refer to my Lords Relation.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Oſſaſtree,</hi> 
+                        <date>24 <hi>of</hi> June, 1644.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Thus far the Letters from that Heroicke Conquerour Colonell</hi> Mit<g ref="char:EOLhyphen"/>ton.</p>
+            <p>
+               <hi>Now followeth other</hi> Letters <hi>from the Earle of</hi> Deneigh <hi>his quarters, of the particulors, of the victory at</hi> Oſweſtrey.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Deſire you to joyn: with us, and for us, in praiſes to God, who hath done greate things for us, and by us.</p>
+                  <p>Upon Thurſday laſt wee came out of <hi>Stafford,</hi> horſe and foote, to intercept ſome Amunition, going to <hi>Prince Rupert,</hi> by the way of <hi>Wales,</hi> over the river of <hi>Comerah.</hi> That night wee merched not farr by reaſon of greate raine: but my Lord of <hi>Denbigh,</hi> early the next day got to horſe, and leaving all our foot at <hi>Draiton,</hi> wee marched to wem, and our horſe to <hi>Elſmore,</hi> and 200, foot and a troope of horſe under the command of Collonell <hi>Mitton:</hi> Wee early next day overtooke our horſe and thoſe foote and by 12 a clock on Saturday wee beleaguerd the enemyes garirſon towne of <hi>Oſweſtrey,</hi> which is (a walled towne) and in it the Church well manned and the Caſtle.</p>
+                  <p>They gave us a hot ſalute, and our men as gallantly entertained it and returned an anſwer.</p>
+                  <p>Captaine <hi>Keme</hi> undertooke to make good <hi>Cheſter</hi> paſſage, and <hi>Chirke</hi> Caſtle roade, with theſe Troops, <hi>viz:</hi> Captaine <hi>Kems</hi> on Toope, Collonell <hi>Bartons,</hi> Captaine <hi>Noakeſes,</hi> Captain: <hi>Tompſons,</hi> and Captaine <hi>Broothers.</hi>
+                  </p>
+                  <p>Captaine <hi>Keme</hi> immediatly fixt his guards, and ſent out parties into the mountaines and ſcouts every way, who returned with newes of one Collonell <hi>Marrowes</hi> appearing with a body of horſe, but they never came up, though expected.</p>
+                  <p>
+                     <pb facs="tcp:155214:4"/>My Lords horſe commanded by Major <hi>Frazer</hi> had the guard of Shrewsburie, road and Morton: Our Foot made an onſlaut on the Church being but 200, and in an half houres ſore fight entred the Church, the Enemie fled into the ſteeple, thence they fetcht them down with a powder; there we took 27. priſoners; then we brought up a Sacre to the gate through the ſuburbs, and a party of Horſe were called off the guards both of my Lords, and ours, and my Lords Lifeguard; we ſhot the gate through at two ſhot, and they fired from the gate at our men: but one of our ſhot ſhooting a wo<g ref="char:EOLhyphen"/>mans bowels cut, and wounding two or three, put them in a feare, that they betook themſelves to the Caſtle. We forced open the gates, and the horſe entred reſolutely, and ſo by 3. aclock were poſ<g ref="char:EOLhyphen"/>ſeſſed of the Town, as good a peece of ſervice, God have all the pra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe, as this yeer hath produced. My Lord himſelfe entred the Town with the horſe, neglecting thoughts of his own ſafety: Our men minded not the plundring the Town (which was their right in raking it in this way) but followed on to the Caſtle where they fiercely fiered on us every way being well mann'd. We made ſome ſhot with the greateſt Sacre, but took little effect.</p>
+                  <p>Onely ſome timerous men got over the wals, one broke his arme falling, others Captain <hi>Kemes</hi> horſe lighted on, took them priſon<g ref="char:EOLhyphen"/>ers, Captain <hi>Keme</hi> ſent my Lord from his guard 14. priſoners into the Town, beſides one Captain which his Scout took by Chirke Caſtle with his Commiſſion under his Majeſties hand, and ſent it to my Lord alſo.</p>
+                  <p>My Lord at night called a Councell of Warre, and ordered a ſtrong guard, and deſigned a party of Troopers to venter to fire the Caſtle gates with pitch; but our men wearied out, ſlipt the oppor<g ref="char:EOLhyphen"/>tunitie: My Lord by break of day waking, came to Captain <hi>Keme</hi> in the ſame houſe with him, and deſigned him to go forward the de<g ref="char:EOLhyphen"/>ſigne, which immediately he did with great chearfulneſſe and va<g ref="char:EOLhyphen"/>lour: but on his way there met him a party of women of all ſorts down on their knees, confounding him with their Welch howl<g ref="char:EOLhyphen"/>ings, that he was fain to get an Interpreter, which was to beſeech
+<pb facs="tcp:155214:4"/>me to intreat my Lord before he blew up the Caſtle, they might go up and ſpeak to their husbands, children, and the officers; which he moved, and my Lord condeſcended to, ſo Captain <hi>Keme</hi> might go with them and a Trumpet, which he did couragiouſly, and car<g ref="char:EOLhyphen"/>ried this meſſage. Then my Lord to avoid the effuſion of blood yet offered them mercy, if they would accept of it; they threw down this paper, <hi>viz.</hi>
+                  </p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="propositions">
+                              <head>To the Right Honourable the Earl of Denbigh.</head>
+                              <head type="sub">Propoſitions propounded by us for the delivering up of the Caſtle of <hi>Oſweſtry.</hi>
+                              </head>
+                              <p>
+                                 <hi>FIrſt, to march away with our Armes, bag and baggage, Officers and Souldiers, and all other perſons whatſoever being in the ſaid Ca<g ref="char:EOLhyphen"/>ſtle. And,</hi>
+                              </p>
+                              <p>
+                                 <hi>Secondly, that we the ſaid Officers, and all other perſons whatſoever, being within the ſaid Caſtle, may be guarded thorow your Quarters to Mountfords bridge, or quietly to abide in our own habitations.</hi>
+                              </p>
+                              <p>
+                                 <hi>Thirdly, that we may march out of the ſaid Caſtle over the ſaid Bridge with our Muskets charged, light matches, and balls in our mouthes.</hi>
+                              </p>
+                              <p>
+                                 <hi>Theſe Propoſitions being granted, the Caſtle ſhall be delivered by the Officers ſubſcribed.</hi>
+                              </p>
+                              <closer>
+                                 <signed>
+                                    <list>
+                                       <item>
+                                          <hi>Iohn Birdwell</hi> Lieutenant Collonel.</item>
+                                       <item>
+                                          <hi>Iohn Warrin</hi> Captain.</item>
+                                       <item>
+                                          <hi>Nicho. Hooks</hi> Lieutenant.</item>
+                                       <item>
+                                          <hi>Thomas Davenport,</hi> Lievtenant.</item>
+                                       <item>
+                                          <hi>Hugh Lloyd,</hi> Ancient.</item>
+                                       <item>
+                                          <hi>Lewis Morgan,</hi> Ancient.</item>
+                                    </list>
+                                 </signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>Captain <hi>Keme</hi> returned, leaving the women, my Lord refuſed to condeſcend; at laſt the women prevailed, and cried to me to come up: then the two brave Champions, Collonel <hi>Mitton,</hi> and Captain <hi>Keme</hi> went up, and they ſaid they would repoſe themſelves on ſuch quarter as my Lord would ſigne to, which was their lives onely.</p>
+                  <p>
+                     <pb facs="tcp:155214:5"/>So they marched out, and we found, 100, good <hi>muſkets,</hi> beſides o<g ref="char:EOLhyphen"/>thers ſtole away 8, <hi>Halberts,</hi> and <hi>Officers</hi> to them, 1 <hi>barrell</hi> of <hi>powder,</hi> and ſutable <hi>match,</hi> many <hi>ſwords,</hi> and ſome few <hi>piſtolls,</hi> 20, <hi>Gentlemen</hi> of wales, and Shropſhire, divers <hi>Officers,</hi> and 200, <hi>Priſoners,</hi> beſides what were loſt.</p>
+                  <p>Immediatly (it being the Lords day) my Lord called away all to go to Church to praiſe God, which was done, and our dead buried.</p>
+                  <p>In all this ſervice we had but 2 Souldiers ſlaine, and 1 horſe and but 4, wounded, bleſſed be God.</p>
+                  <p>This Towne is of great concernment. Wee had a Councell of warr at 1 a clock, at which my Lord Generall (the Earle of <hi>Denbigh</hi>) made Colonell <hi>Mitton</hi> Governour of <hi>Oſweſter:</hi> And wee have reſol<g ref="char:EOLhyphen"/>ved upon a great deſigne, which is to joyne with Cheſhire forces, where Sir <hi>Thomas Middleton</hi> is novv at Namptvvich, and hath been theſe four days, and goe againſt Prince <hi>Rupert</hi> into Lancaſhire: I pray commend us eſpecially novv in your conſtant prayers to the Lord, be doing as vvell as vve: and praiſe God for his miraculous love by us a poore weak Aamie.</p>
+                  <p>This day my Lord received thanks from the Committee of both Kingdomes for the laſt ſervice at Tipton Greene: It is a ſad ſight to behold the ignorance of theſe Welch in theſe parts, and how they are inſlaved to ſerve: we ſhall leave a Garriſon here, and Colonell <hi>Mitton,</hi> and march to our foot on Wedneſday next with our body of horſe. Colonell <hi>Fox</hi> is with us here: our men fetcht in 300 Cows and Salt Runts of the Mountains, and ſell good penny worths: This Town to avoid plundering are to give 500 pounds to the Souldiers.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
